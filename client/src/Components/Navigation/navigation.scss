@@ -1,0 +1,26 @@
+.navigation {
+    background: #fcfcfc;
+    border-right: 1px solid #f8f8f8;
+    padding: 1em 0;
+    .branding h1 {
+        color: #111;
+        font-weight: lighter;
+    }
+    ul {
+        list-style: none;
+        padding: 0;
+        li {
+            margin: 2em 0;
+            a {
+                color: #111;
+                display: block;
+                padding: 0.5em;
+                padding: 1em;
+                text-decoration: none;
+                font-size: 1.1em;
+                border-left: 4px solid #e74c3c;
+            }
+        }
+
+    }
+}
